@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Russell et al., "Extreme heterogeneity of influenza virus infection in single cells". eLife, 2018. http://dx.doi.org/10.7554/eLife.32303
+
+
+
 # Single-cell sequencing of influenza-infected cells
 This repository is an analysis of the transcriptional dynamics of influenza virus infection at the level of single cells.
 
